@@ -59,4 +59,6 @@ Long-term target: **research-oriented MS in AI/ML (~2027)**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoMinhKhoii&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
+<img src="https://raw.githubusercontent.com/VoMinhKhoii/VoMinhKhoii/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+
 </div>
