@@ -31,21 +31,15 @@
 
 ## Background
 
-I've been building in AI/ML long enough to care about the foundations — OCR pipelines, RL agents, game tree search, transformer fine-tuning. Each project was less about the domain and more about understanding what's actually happening inside: why CTC aligns sequences, why a search tree converges, why BERT generalizes. That thread runs through everything I build.
+I've been building in AI/ML long enough to care about the foundations — OCR pipelines, RL agents, game tree search, transformer fine-tuning. Each project was less about the domain and more about understanding what's actually happening inside: why CTC aligns sequences, why a search tree converges, and why BERT generalizes. That thread runs through everything I build.
 
-I spend most of my time at the intersection of **mathematical foundations** and **production engineering** — self-studying linear algebra, probability, and matrix calculus not because a course requires it, but because I think you can't trust what you don't understand. Currently grounding that in math/Ml/DL: working through MIT 18.06, 18.02, CS109, CS229, CS231n by choice, not requirement.
-
-Currently interning at **BigIn**, migrating a legacy clinical application to an automation-first intelligent OS in **Go**.
-
-Previously at **Tuturuuu** — built Gemini Live tool-calling infrastructure for a voice assistant, re-architected real-time task interfaces with Vercel AI SDK, and fixed race conditions in bulk operations backed by PostgreSQL vector embeddings.
-
-Long-term target: **research-oriented MS in AI/ML (~2027)**.
+I spend most of my time at the intersection of **mathematical foundations** and **production engineering** — self-studying linear algebra, probability, and matrix calculus not because a course requires it, but because I think you can't trust what you don't understand. Currently grounding that in math/ML/DL: working through MIT 18.06, 18.02, CS109, CS229, CS231n by choice, not requirement.
 
 ---
 
 ## Now Building
 
-**🥗 Nhẩm** — an AI calorie tracker for Vietnamese food, because existing apps don't know what bún bò Huế is.
+**🥗 Nhẩm** — an AI calorie tracker for Vietnamese food, because existing apps don't know what Bún Bò Huế is.
 
 ---
 
