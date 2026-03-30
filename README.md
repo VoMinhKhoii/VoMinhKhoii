@@ -1,9 +1,5 @@
 <div align="center">
 
-# Vo Minh Khoi
-
-**Software Engineering @ RMIT Vietnam · AI/ML Minor · SWE Intern @ BigIn**
-
 *I care about the* ***why*** *behind algorithms — not just whether they work, but why they do.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-vo-1648112a0/)
@@ -54,10 +50,6 @@ Long-term target: **research-oriented MS in AI/ML (~2027)**.
 ---
 
 <div align="center">
-
-*Ho Chi Minh City, Vietnam*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoMinhKhoii&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 <img src="https://raw.githubusercontent.com/VoMinhKhoii/VoMinhKhoii/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 
