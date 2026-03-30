@@ -39,7 +39,7 @@ I spend most of my time at the intersection of **mathematical foundations** and 
 
 ## Now Building
 
-**🥗 Nhẩm** — an AI calorie tracker for Vietnamese food, because existing apps don't know what Bún Bò Huế is.
+**Nhẩm** — an AI calorie tracker for Vietnamese, because existing apps don't know what Bún Bò Huế is.
 
 ---
 
