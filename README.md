@@ -33,9 +33,11 @@
 
 ---
 
-## About
+## Background
 
-Third-year SE student at RMIT Vietnam, AI/ML minor. I spend most of my time at the intersection of **mathematical foundations** and **production engineering** — self-studying linear algebra, probability, and matrix calculus not because a course requires it, but because I think you can't trust what you don't understand.
+I've been building in AI/ML long enough to care about the foundations — OCR pipelines, RL agents, game tree search, transformer fine-tuning. Each project was less about the domain and more about understanding what's actually happening inside: why CTC aligns sequences, why a search tree converges, why BERT generalizes. That thread runs through everything I build.
+
+I spend most of my time at the intersection of **mathematical foundations** and **production engineering** — self-studying linear algebra, probability, and matrix calculus not because a course requires it, but because I think you can't trust what you don't understand. Currently grounding that in math/Ml/DL: working through MIT 18.06, 18.02, CS109, CS229, CS231n by choice, not requirement.
 
 Currently interning at **BigIn**, migrating a legacy clinical application to an automation-first intelligent OS in **Go**.
 
@@ -45,49 +47,9 @@ Long-term target: **research-oriented MS in AI/ML (~2027)**.
 
 ---
 
-## Projects
+## Now Building
 
-### 🔬 Vietnamese Handwritten Address OCR
-> CRNN + CTC loss · TensorFlow/Keras · ~4.55% CER
-
-End-to-end OCR pipeline for Vietnamese handwritten addresses. Built the full training loop from scratch — understanding CTC alignment, blank token handling, and sequence decoding rather than just plugging in a library.
-
----
-
-### ♟️ Connect 4 — MCTS with CNN Evaluator
-> Monte Carlo Tree Search · MCTS-Solver · Self-play · PyTorch
-
-MCTS engine with a CNN position evaluator trained on self-play data. Implemented smart rollouts and MCTS-Solver pruning. The interesting part wasn't the game — it was learning what makes a search tree actually converge.
-
----
-
-### 🤖 Deep RL Arena Agents
-> PPO · DQN · Seven model iterations · Research report
-
-Trained PPO and DQN agents for arena-based game environments. Documented seven model iterations with analysis of reward shaping, stability, and policy collapse. The research report is the artifact I'm most proud of here.
-
----
-
-### 🐦 Twitter Sentiment — BERT Fine-tuning
-> HuggingFace Transformers · 92% accuracy
-
-Fine-tuned BERT for multi-class sentiment classification. Went deep on attention mechanics and tokenization to understand *why* it generalizes rather than just running the training script.
-
----
-
-### 🥗 Nham — Vietnamese AI Calorie Tracker *(in progress)*
-> Next.js · Supabase · Gemini API · FAO Vietnam 2007 DB
-
-Two-layer nutrition architecture: a structured FAO Vietnamese food database + LLM-based cooking adjustment for regional dishes. Solo side project, personally validated. Live at [nham-cal-track.vercel.app](https://nham-cal-track.vercel.app).
-
----
-
-## What I'm Thinking About
-
-- Why the GMP scheduler makes goroutines cheap but not free
-- Uniform convergence and why it matters for generalization bounds
-- What it actually means for a model to "understand" structure vs. memorize it
-- Building systems that degrade gracefully when LLM outputs are unpredictable
+**🥗 Nhẩm** — an AI calorie tracker for Vietnamese food, because existing apps don't know what bún bò Huế is.
 
 ---
 
@@ -95,6 +57,6 @@ Two-layer nutrition architecture: a structured FAO Vietnamese food database + LL
 
 *Ho Chi Minh City, Vietnam*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoMinhKhoii&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
