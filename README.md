@@ -39,7 +39,7 @@ I spend most of my time at the intersection of **mathematical foundations** and 
 
 ## Now Building
 
-**Nhẩm** — an AI calorie tracker for Vietnamese, because existing apps don't know what Bún Bò Huế is.
+**Kallo** — an text-first AI calorie tracker, aiming for better accuracy and transparency
 
 ---
 
